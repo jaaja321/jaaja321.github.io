@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/lux-site/static/css/main.2a5af879.css",
-    "main.js": "/lux-site/static/js/main.00dc444f.js",
+    "main.css": "/lux-site/static/css/main.3ee2b508.css",
+    "main.js": "/lux-site/static/js/main.007924c1.js",
+    "static/media/back.jpg": "/lux-site/static/media/back.ed53e581934c5e5635a1.jpg",
     "index.html": "/lux-site/index.html",
-    "main.2a5af879.css.map": "/lux-site/static/css/main.2a5af879.css.map",
-    "main.00dc444f.js.map": "/lux-site/static/js/main.00dc444f.js.map"
+    "main.3ee2b508.css.map": "/lux-site/static/css/main.3ee2b508.css.map",
+    "main.007924c1.js.map": "/lux-site/static/js/main.007924c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a5af879.css",
-    "static/js/main.00dc444f.js"
+    "static/css/main.3ee2b508.css",
+    "static/js/main.007924c1.js"
   ]
 }
