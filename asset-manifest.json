@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/lux-site/static/css/main.31d6cfe0.css",
-    "main.js": "/lux-site/static/js/main.72d402ee.js",
+    "main.js": "/lux-site/static/js/main.1b26b0f8.js",
     "index.html": "/lux-site/index.html",
-    "main.72d402ee.js.map": "/lux-site/static/js/main.72d402ee.js.map"
+    "main.1b26b0f8.js.map": "/lux-site/static/js/main.1b26b0f8.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.72d402ee.js"
+    "static/js/main.1b26b0f8.js"
   ]
 }
