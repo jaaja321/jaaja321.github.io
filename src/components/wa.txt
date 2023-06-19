@@ -1,0 +1,16 @@
+import React, { Component } from 'react'
+
+export class Info extends Component {
+  render() {
+    var infoWindows = document.querySelectorAll('.info')
+    return (
+      <div className={`info ${this.props.info && 'active'}`}>
+        <img src={"./img/" + this.props.item.img}/>
+        <h2>{this.props.item.title}</h2>
+        <p>{this.props.item.desc}</p>
+      </div>
+    )
+  }
+}
+
+export default Info
